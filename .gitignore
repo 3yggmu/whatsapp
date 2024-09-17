@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor directories
+.vscode/
+.idea/
+
+# OS specific files
+*.swp
+
+# Build output
+dist/
+build/
+
+# Local configuration files
+*.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage directory
+coverage/
+
+# Yarn
+yarn-error.log
